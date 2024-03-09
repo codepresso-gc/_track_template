@@ -1,5 +1,5 @@
 # create beginner directory
-# set_02
+# set_01
 mkdir -p beginner/set_01/01 && touch beginner/set_01/01/main.md
 mkdir -p beginner/set_01/02 && touch beginner/set_01/02/main.md
 mkdir -p beginner/set_01/03 && touch beginner/set_01/03/main.md
@@ -12,6 +12,18 @@ mkdir -p beginner/set_01/09 && touch beginner/set_01/09/main.md
 mkdir -p beginner/set_01/10 && touch beginner/set_01/10/main.md
 mkdir -p beginner/set_01/11 && touch beginner/set_01/11/main.md
 mkdir -p beginner/set_01/12 && touch beginner/set_01/12/main.md
+
+# set_02
+mkdir -p beginner/set_02/01 && touch beginner/set_02/01/main.md
+mkdir -p beginner/set_02/02 && touch beginner/set_02/02/main.md
+mkdir -p beginner/set_02/03 && touch beginner/set_02/03/main.md
+mkdir -p beginner/set_02/04 && touch beginner/set_02/04/main.md
+mkdir -p beginner/set_02/05 && touch beginner/set_02/05/main.md
+mkdir -p beginner/set_02/06 && touch beginner/set_02/06/main.md
+mkdir -p beginner/set_02/07 && touch beginner/set_02/07/main.md
+mkdir -p beginner/set_02/08 && touch beginner/set_02/08/main.md
+mkdir -p beginner/set_02/09 && touch beginner/set_02/09/main.md
+mkdir -p beginner/set_02/10 && touch beginner/set_02/10/main.md
 
 # create intermediate directory
 # set_01
