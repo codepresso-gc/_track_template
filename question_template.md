@@ -49,14 +49,14 @@ The `applyMinus` function is designed to create an object that can manipulate an
 
 # Description
 ## KO
-## Question
+## 문제
 여기는 Question 영역 입니다
 
-## Instruction
+## 지침
 - `Instruction2` 해야 합니다.
 - ~~ 해야 합니다
 
-## Example
+## 예시
 예를 들면
 
 # Editor
