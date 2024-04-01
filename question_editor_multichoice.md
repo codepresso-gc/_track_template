@@ -54,23 +54,6 @@ The `applyMinus` function is designed to create an object that can manipulate an
 ## 예시
 예를 들면
 
-# Editor
-
-```javascrpt
-
-
-```
-
-
-# Correct Answer
-```javascript
-
-
-```
-
-# Output
-True
-
 
 # Multiple-Choice
 ## EN
@@ -98,4 +81,6 @@ find data -name "*codepresso*" -type f | wc -l
 
 
 # Command Output
+```
 11
+```
