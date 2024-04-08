@@ -17,7 +17,8 @@
 
 **INSTRUCTION_MULTIPLE_CHOICE**	// 리눅스 실습 서버 + (Instruction) + 객관식
 
-***** **// 멀티파일
+ MULTI_FILE_CODE // 멀티파일
+- Language : HTML_CSS_JAVASCRIPT 필수
 
 
 ## 참고(codepresso only)
