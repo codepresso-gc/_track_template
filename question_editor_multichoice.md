@@ -64,7 +64,8 @@ The `applyMinus` function is designed to create an object that can manipulate an
 - [ ] 
 - [ ] 
 
-## KR
+# Multiple-Choice
+## KO
 ### Git 에서 새로운 브랜치를 생성함과 동시에 해당 브랜치로 전환하는 명령어를 고르세요.
 - [ ] 
 - [ ] 
