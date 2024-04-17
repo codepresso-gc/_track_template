@@ -82,3 +82,17 @@ mkdir -p professional/set_01/03 && touch professional/set_01/03/main.md
 mkdir -p professional/set_01/04 && touch professional/set_01/04/main.md
 mkdir -p professional/set_01/05 && touch professional/set_01/05/main.md
  
+# create LV1 directory
+# set_01
+mkdir -p LV1/set_01/01 && touch LV1/set_01/01/main.md
+mkdir -p LV1/set_01/02 && touch LV1/set_01/02/main.md
+mkdir -p LV1/set_01/03 && touch LV1/set_01/03/main.md
+mkdir -p LV1/set_01/04 && touch LV1/set_01/04/main.md
+mkdir -p LV1/set_01/05 && touch LV1/set_01/05/main.md
+mkdir -p LV1/set_01/06 && touch LV1/set_01/06/main.md
+mkdir -p LV1/set_01/07 && touch LV1/set_01/07/main.md
+mkdir -p LV1/set_01/08 && touch LV1/set_01/08/main.md
+mkdir -p LV1/set_01/09 && touch LV1/set_01/09/main.md
+mkdir -p LV1/set_01/10 && touch LV1/set_01/10/main.md
+mkdir -p LV1/set_01/11 && touch LV1/set_01/11/main.md
+mkdir -p LV1/set_01/12 && touch LV1/set_01/12/main.md
