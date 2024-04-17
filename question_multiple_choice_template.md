@@ -62,6 +62,7 @@ The `applyMinus` function is designed to create an object that can manipulate an
 - [ ] answer 4
 - [ ] answer 5
 
+# Multiple-Choice
 ## KO
 ### 문제를 작성하세요
 - [x] 보기 1
