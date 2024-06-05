@@ -63,7 +63,7 @@ The `applyMinus` function is designed to create an object that can manipulate an
 ## KO
 ### 질문 입력
 
-# Short-Answer
+# Output
 단답형 정답 입력|복수 정답시 추가 입력|복수 정답시 추가 입력
 
 
