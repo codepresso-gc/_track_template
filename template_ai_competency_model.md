@@ -1,5 +1,5 @@
 
-| competency_id | competency_name* | competency_point* |
+| competency_id | competency_name | competency_point |
 |--------|------------|------------|
 | 1      | -          |            |
 | 2      | -          |            |
